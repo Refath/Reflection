@@ -1,0 +1,8 @@
+pandas
+jupyter
+numpy
+scipy
+sympy
+vpython
+serial
+matplotlib
